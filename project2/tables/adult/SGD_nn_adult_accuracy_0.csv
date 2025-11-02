@@ -1,0 +1,2 @@
+,l2,dropout,method,accuracy_train_mean,accuracy_test_mean,f1_train_mean,f1_test_mean
+0,0,0,SGD,0.8773065805435181,0.8706334233283997,0.8734183757333294,0.8663050573494375

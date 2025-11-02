@@ -1,0 +1,2 @@
+,l2,dropout,method,accuracy_train_mean,accuracy_test_mean,f1_train_mean,f1_test_mean
+0,0,0,Adam,0.88019859790802,0.8703646659851074,0.8780003818474588,0.8678240048412651
